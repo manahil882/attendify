@@ -75,7 +75,7 @@ Attendify is built using the following technologies:
 ### 🔧 1. Clone the Repository
 
 ```
-git clone <repository_url>
+git clone https://github.com/manahil882/attendify
 cd Attendify
 ```
 ---
